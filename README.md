@@ -1,6 +1,6 @@
 # PupperCoin:  You sure can attract a crowd!
 
-![Crowdsale](Crowdsale.jpg)
+![crowd](Images/crowd.PNG)
 
 ## Background
 
@@ -18,12 +18,26 @@ Crowdsale.sol file takes in the following parameters:
 - rate - rate in TKNbits
 - wallet - sale beneficiary
 - goal - cap of the crowdsale
-- openingTime - is set equal to now
-- closingTime - is set equal to now + 24 weeks
+- OpenTime - is set equal to now
+- CloseTime - is set equal to now + 24 weeks
 
 ## Testing the Crowdsale
 
 ### Compile the Contracts
 
-![PupperCoinCompile](PupperCoinCompile.gif)
+![PupperCoinCompile](Images/PupperCoinCompile.gif)
+
+### Deploy the Contracts
+
+![PupperCoinDeploy](Images/PupperCoinDeploy.gif)
+
+### Buy Tokens
+
+![PupperCoinBuyTokens](Images/PupperCoinBuyTokens.gif)
+
+### Add Token on Metamask
+
+![PupperCoinAddTokens](Images/PupperCoinAddTokens.gif)
+
+![Metamask](Images/Metamask.PNG
 
