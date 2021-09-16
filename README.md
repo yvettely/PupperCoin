@@ -1,6 +1,6 @@
 # PupperCoin:  You sure can attract a crowd!
 
-![crowd](Images/crowd.PNG)
+![crowd](Images/crowd.png)
 
 ## Background
 
@@ -39,5 +39,5 @@ Crowdsale.sol file takes in the following parameters:
 
 ![PupperCoinAddTokens](Images/PupperCoinAddTokens.gif)
 
-![Metamask](Images/Metamask.PNG
+![Metamask](Images/Metamask.PNG)
 
